@@ -1,0 +1,6 @@
+{
+  "name": "StreamNet Studio",
+  "description": "Plateforme professionnelle de diffusion en direct sur YouTube pour studios et créateurs de contenu.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
